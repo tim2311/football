@@ -1,0 +1,52 @@
+.top-bar-style {
+  background-color: #97DBAE;
+  height: 10rem;
+}
+
+h1 {
+  color: #F1E1A6;
+  font-family: 'Pacifico', cursive;
+  padding-top: 3rem;
+  padding-left: 1.5rem;
+}
+
+.top-style {
+  background-color: #fff;
+}
+
+.explanation-style {
+  font-family: 'Dela Gothic One', cursive;
+  font-size: 3rem;
+  margin-bottom: 14rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  margin-top: 14rem;
+  text-align: center;
+}
+
+.middle-style {
+  background-color: #C3E5AE;
+  font-family: 'Dela Gothic One', cursive;
+  font-size: 1.5rem;
+}
+
+.bottom-bar-style {
+  background-color: #97DBAE;
+  height: 10rem;
+  text-align: center;
+}
+
+a {
+  font-family: 'Dela Gothic One', cursive;
+  color: #fff;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+  text-decoration: underline;
+  text-decoration-color: #fff;
+  text-decoration-thickness: 5px;
+}
